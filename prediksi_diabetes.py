@@ -159,3 +159,4 @@ lbl_hasil.pack(pady=15)
 
 root.mainloop()
 
+conn.close()
